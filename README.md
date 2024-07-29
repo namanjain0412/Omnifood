@@ -1,4 +1,5 @@
 Omnifood
+
 Omnifood is a sleek, responsive website designed for a fictional AI-based meal subscription service. 🍽️💡 This project showcases modern web design principles and focuses on accessibility and user-friendliness. Deployed on Netlify for seamless hosting and top-notch performance. 🚀
 
 Key Features
